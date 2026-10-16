@@ -1,0 +1,11 @@
+umg\simuladorsos1\model\Proceso.class
+umg\simuladorsos1\model\ResultadoPlanificacion.class
+umg\simuladorsos1\MainApp.class
+umg\simuladorsos1\simulation\ConcurrenciaSimulator$Resultado.class
+umg\simuladorsos1\simulation\GestorMemoria$Bloque.class
+umg\simuladorsos1\simulation\InterbloqueoSimulator.class
+umg\simuladorsos1\simulation\GestorMemoria.class
+umg\simuladorsos1\algorithms\Planificador.class
+umg\simuladorsos1\model\BloqueGantt.class
+umg\simuladorsos1\simulation\ConcurrenciaSimulator.class
+umg\simuladorsos1\ui\MainFrame.class
